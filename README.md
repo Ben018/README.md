@@ -1,1 +1,4 @@
-# Benson's Notes
+# Ben's Notes
+## Summary
+
+This repository contains all of the notes taken by Ben for the Lighthouse Labs Web Development Bootcamp.
